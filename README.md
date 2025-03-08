@@ -27,6 +27,7 @@ Blender 3D has a powerful and flexible interface that allows you to work with di
 3. After installation, launch the application. 🚀
 
 ## Usage Examples 📊
+![image](https://github.com/user-attachments/assets/b6afea35-d300-45f7-9a7e-33681944cd42)
 
 
 # Documentation 📚
